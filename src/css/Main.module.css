@@ -1,0 +1,17 @@
+.container {
+	display: flex;
+	justify-content: space-evenly;
+}
+
+.title {
+	font-size: 80px;
+	margin-top: 40px;
+}
+
+p {
+	font-size: 20px;
+}
+
+.socialMediaParagraph {
+	margin-top: 16px;
+}
